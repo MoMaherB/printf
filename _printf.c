@@ -36,7 +36,7 @@ Here:
 			}
 			var2--;
 		}
-		_putchar(format[i]);
+		_putchar(format[var1]);
 		ln++;
 		var1++;
 	}
